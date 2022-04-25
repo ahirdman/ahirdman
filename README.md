@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-
-- 🔭 I’m currently working on [a spotify project](https://github.com/ahirdman/hackday-tinderify)
-
-- 🌱 I’m currently learning **a lot.**
+<h1 align="center">Hi, I'm Alexander</h1>
 
 - 📫 Reach me at **hirdman.alex@icloud.com**
 
