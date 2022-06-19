@@ -12,7 +12,6 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
    <img src="https://github-readme-stats.vercel.app/api?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahirdman&theme=react&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
  </div>
  </div>
