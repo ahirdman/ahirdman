@@ -11,7 +11,7 @@
 ## Stats
 <div align="center">
   <div style="display: flex">
-   <img style="width: 40%"src="https://github-readme-stats.vercel.app/api?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
-   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+   <img style="width: 50%"src="https://github-readme-stats.vercel.app/api?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
+   <img style="width: 42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahirdman&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
  </div>
  </div>
